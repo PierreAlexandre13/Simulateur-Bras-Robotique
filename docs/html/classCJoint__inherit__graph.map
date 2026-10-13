@@ -1,0 +1,7 @@
+<map id="CJoint" name="CJoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,5,219,271"/>
+<area shape="rect" id="Node000002" href="$classCJointPrismatic.html" title=" " alt="" coords="5,339,143,464"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,285,96,339,90,337,107,283"/>
+<area shape="rect" id="Node000003" href="$classCJointRevolute.html" title=" " alt="" coords="167,319,301,484"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,283,211,318,206,319,196,284"/>
+</map>
